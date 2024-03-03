@@ -1,1 +1,1 @@
-# Code-Alpha-Task2-Quiz-Application
+# CodeAlpha-Task2-Quiz-Application
